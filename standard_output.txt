@@ -1,0 +1,2 @@
+print "STANDARD OUTPUT","hello";
+print 5.4, True, 2;

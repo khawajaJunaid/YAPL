@@ -1,0 +1,11 @@
+String a = "start"
+Int b = 1
+Float c = 2.5
+Bool d = FALSE
+Int e = 0
+String f = "end"
+print a;
+print b,c ;
+print d,e ;
+print f;
+Int e = 5

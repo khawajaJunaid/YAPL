@@ -1,0 +1,22 @@
+String mystring = ("theory" + " of ") + "automata " + ((("3") + "1") + "5")
+print mystring;
+
+Int a = 15
+a++
+print (a);
+
+Float b = a + (2^3) + 10 / (6 - 1) - 1
+print a, b;
+
+
+a--
+b = 3 ^0.5
+print a, b;
+Int e = 0
+
+
+Bool c = a < b
+Bool d = (a >= 90)
+print d;
+
+
